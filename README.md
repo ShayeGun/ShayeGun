@@ -1,27 +1,26 @@
-# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+<h1 align="center">Hi 👋, I'm Shayegan</h1>
+<h3 align="center">I'm a software engineer who loves building scalable web applications and exploring the inner workings of distributed systems and databases.</h3>
 
-I'm a software engineer who loves building scalable web applications and exploring the inner workings of distributed systems and databases.
+### 📫 How to reach me
 
-Currently working searching for a job
+[![Email](https://img.shields.io/badge/Email-shayegan.7200%40gmail.com-red?logo=gmail&logoColor=white)](mailto:shayegan.7200@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@shayegan720-26A5E4?logo=telegram&logoColor=white)](https://t.me/shayegan720)
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shayegan.7200@gmail.com)](mailto:shayegan.7200@gmail.com)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShayeGun)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ShayeGun&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+### 🛠️ Tech I typically use (non-exhaustive):
 
-## 🪧 About
-- 📫 How to reach me: shayegan.7200@gmail.com
-- 🛠️ Tech I typically use (non-exhaustive):
+<div align="left"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</dev>
 
-    <div>
-        <img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-        <img height="30" alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
-        <img height="30" alt="Bun" src="https://bun.com/logo.svg">
-        <img height="30" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-        <img height="30" alt="Vue" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png">
-        <img height="30" alt="MongoDB" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
-        <img height="30" alt="SQLite" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png">
-        <img height="30" alt="PostgreSQL" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png">
-        <img height="30" alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
-        <img height="30" alt="Visual Studio Code" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-    </div>
