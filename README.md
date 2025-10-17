@@ -5,10 +5,9 @@ I'm a software engineer who loves building scalable web applications and explori
 Currently working searching for a job
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shayegan.7200@gmail.com)](mailto:shayegan.7200@gmail.com)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tibixdev)
-![discord](https://img.shields.io/badge/Discord-tibix-blueviolet)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShayeGun)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=tibixdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![github stats](https://github-readme-stats.vercel.app/api?username=ShayeGun&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
 ## 🪧 About
 - 📫 How to reach me: shayegan.7200@gmail.com
